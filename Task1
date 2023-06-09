@@ -1,0 +1,9 @@
+touch file{1..10}.txt
+ls
+ls -Art | tail -n 5
+mv file1.txt file1.yml
+mv file2.txt file2.yml
+mv file3.txt file3.yml
+mv file4.txt file4.yml
+mv file5.txt file5.yml
+ls
